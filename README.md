@@ -96,8 +96,8 @@
     <header>
         <div class="header-content">
             <!-- Profile Picture (Now Visible) -->
-            <img src="Ashiga passport.jpg" alt="My Profile Picture" class="profile-picture">
-            <h1>Ashiga.S.B.Shiv</h1>
+            <img src="sanapasspic.jpg" alt="My Profile Picture" class="profile-picture">
+            <h1>R.Sana</h1>
             <p>Aspiring Computer Applications Student</p>
         </div>
     </header>
